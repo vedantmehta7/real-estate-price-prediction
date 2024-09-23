@@ -31,7 +31,7 @@ cd real-estate-price-prediction
 <p>Once the notebook is opened, you can follow the step-by-step guide in the notebook to run the code and see the predictions.</p>
 
 <h2>Data</h2>
-<p>The dataset used for this project can be found in the <code>data</code> directory. It contains information like the size of the house, location, number of bedrooms, and other features that influence the price of the property.</p>
+<p>The dataset used for this project can be found in the directory. It contains information like the size of the house, location, number of bedrooms, and other features that influence the price of the property.</p>
 
 <h2>Project Structure</h2>
 <ul>
