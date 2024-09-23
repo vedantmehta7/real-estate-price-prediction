@@ -21,7 +21,7 @@
 <h2>Installation</h2>
 <pre><code>git clone https://github.com/your-username/real-estate-price-prediction.git
 cd real-estate-price-prediction
-pip install -r requirements.txt
+<!-- pip install -r requirements.txt -->
 </code></pre>
 
 <h2>Usage</h2>
@@ -36,16 +36,10 @@ pip install -r requirements.txt
 <h2>Project Structure</h2>
 <ul>
     <li><code>real-estate-price-prediction.ipynb</code> - The main notebook with code and explanations</li>
-    <li><code>data/</code> - Folder containing the dataset</li>
-    <li><code>models/</code> - Folder where trained models are saved</li>
-    <li><code>README.html</code> - This file</li>
+<!--     <li><code>data/</code> - Folder containing the dataset</li> -->
+<!--     <li><code>models/</code> - Folder where trained models are saved</li> -->
+<!--     <li><code>README.html</code> - This file</li> -->
 </ul>
-
-<h2>Contributing</h2>
-<p>Feel free to fork this repository, open a pull request, or submit an issue for any bugs or feature requests.</p>
-
-<h2>License</h2>
-<p>This project is licensed under the MIT License - see the <code>LICENSE</code> file for details.</p>
 
 </body>
 </html>
